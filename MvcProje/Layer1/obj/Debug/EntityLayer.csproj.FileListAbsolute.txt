@@ -1,0 +1,12 @@
+C:\Users\Esra\source\repos\MvcProje\Layer1\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Esra\source\repos\MvcProje\Layer1\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Esra\source\repos\MvcProje\Layer1\bin\Debug\EntityLayer.dll.config
+C:\Users\Esra\source\repos\MvcProje\Layer1\bin\Debug\EntityLayer.dll
+C:\Users\Esra\source\repos\MvcProje\Layer1\bin\Debug\EntityLayer.pdb
+C:\Users\Esra\source\repos\MvcProje\Layer1\bin\Debug\EntityFramework.dll
+C:\Users\Esra\source\repos\MvcProje\Layer1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esra\source\repos\MvcProje\Layer1\bin\Debug\EntityFramework.xml
+C:\Users\Esra\source\repos\MvcProje\Layer1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esra\source\repos\MvcProje\Layer1\obj\Debug\EntityLa.DA06A3F2.Up2Date
+C:\Users\Esra\source\repos\MvcProje\Layer1\obj\Debug\EntityLayer.dll
+C:\Users\Esra\source\repos\MvcProje\Layer1\obj\Debug\EntityLayer.pdb

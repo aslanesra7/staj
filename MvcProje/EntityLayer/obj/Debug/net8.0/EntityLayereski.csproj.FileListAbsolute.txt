@@ -1,0 +1,14 @@
+C:\Users\Esra\source\repos\MvcProje\EntityLayer\bin\Debug\net8.0\EntityLayereski.deps.json
+C:\Users\Esra\source\repos\MvcProje\EntityLayer\bin\Debug\net8.0\EntityLayereski.runtimeconfig.json
+C:\Users\Esra\source\repos\MvcProje\EntityLayer\bin\Debug\net8.0\EntityLayereski.dll
+C:\Users\Esra\source\repos\MvcProje\EntityLayer\bin\Debug\net8.0\EntityLayereski.pdb
+C:\Users\Esra\source\repos\MvcProje\EntityLayer\obj\Debug\net8.0\EntityLayereski.csproj.AssemblyReference.cache
+C:\Users\Esra\source\repos\MvcProje\EntityLayer\obj\Debug\net8.0\EntityLayereski.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esra\source\repos\MvcProje\EntityLayer\obj\Debug\net8.0\EntityLayereski.AssemblyInfoInputs.cache
+C:\Users\Esra\source\repos\MvcProje\EntityLayer\obj\Debug\net8.0\EntityLayereski.AssemblyInfo.cs
+C:\Users\Esra\source\repos\MvcProje\EntityLayer\obj\Debug\net8.0\EntityLayereski.csproj.CoreCompileInputs.cache
+C:\Users\Esra\source\repos\MvcProje\EntityLayer\obj\Debug\net8.0\EntityLayereski.dll
+C:\Users\Esra\source\repos\MvcProje\EntityLayer\obj\Debug\net8.0\refint\EntityLayereski.dll
+C:\Users\Esra\source\repos\MvcProje\EntityLayer\obj\Debug\net8.0\EntityLayereski.pdb
+C:\Users\Esra\source\repos\MvcProje\EntityLayer\obj\Debug\net8.0\EntityLayereski.genruntimeconfig.cache
+C:\Users\Esra\source\repos\MvcProje\EntityLayer\obj\Debug\net8.0\ref\EntityLayereski.dll
